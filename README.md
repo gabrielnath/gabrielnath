@@ -7,7 +7,7 @@ Natanael─@gabrielnath
 </h2>
 
 
-Hi, I’m Natanael, a frontend developer with a strong interest in building websites and web apps. Previously worked on personal projects and some university events, fascinated by the world of UI/UX design.
+Hi, I’m Gabriel Natanael, a frontend developer with a strong interest in building websites and web apps. Previously worked on personal projects and some university events, fascinated by the world of UI/UX design.
   
 ## My Core
 🔧 While I’m not a fullstack dev, I've been learning learning backend to improve my skills. 
